@@ -4,7 +4,7 @@ A list of IB economics terms and definitions
 ## Introduction
 
 #### Goods
-Goods are physical objects that people need and want
+`Goods are physical objects that people need and want`
 
 #### Services
 Services are non-physical activities that people need and want
