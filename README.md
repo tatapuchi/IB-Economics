@@ -20,9 +20,13 @@ A list of IB economics terms and definitions
 
 #### Three Basic Economic Questions
 
-- **What to Produce?**
-- **How to Produce?**
-- **For whom to Produce?**
+- `What to Produce?`
+- `How to Produce?`
+- `For whom to Produce?`
 
 #### Resource Allocation
 `Resource Allocation refers to assigning the available resources to specific uses, chosen among many alternatives`
+
+- `Reallocation: Changing the amount of a certain good produced`
+- `Overallocation: One good being produced too much`
+- `Underallocation: One good being produced too less`
