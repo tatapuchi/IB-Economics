@@ -27,6 +27,12 @@ A list of IB economics terms and definitions
 #### Resource Allocation
 `Resource Allocation refers to assigning the available resources to specific uses, chosen among many alternatives`
 
-- `Reallocation: Changing the amount of a certain good produced`
-- `Overallocation: One good being produced too much`
-- `Underallocation: One good being produced too less`
+- `Reallocation(of resources): Changing the amount of a certain good produced`
+- `Overallocation(of resources): One good being produced too much`
+- `Underallocation(of resources): One good being produced too less`
+
+
+### Factors of Production
+
+#### Land
+`Land includes`
